@@ -32,16 +32,14 @@ If the dealer busts, any player who didn't bust wins.
 If the dealer doesn't bust, then any player with a higher hand value than the dealer wins.
 If a player's hand value equals the dealer's, it's a "push" and no money changes hands.
 
-# About This Program
-This program is a simplified version of Blackjack. Some nuances and rules might not be implemented, but it serves as a fun and educational introduction to the game.
 
 ## Multiple Versions
 
 You'll find multiple versions of the program in this repository:
 
 - Original Python Version: Written solely by the author of the repository.
-- GitHub Copilot Version
-- Cursor Version
-- Aide Version
+- GitHub Copilot Version: Written by Copilot (GitHub)
+- Cursor Version: Written by Cursor (Anysphere)
+- Aide Version: Written by Aide (Codestory)
 
 
