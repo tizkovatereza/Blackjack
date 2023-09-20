@@ -1,6 +1,7 @@
 # Blackjack
 
-Welcome to the Blackjack Program repository! This program is a simplified version of the classic card game, Blackjack. It's written in Python and has been developed with the assistance of various tools, including GitHub Copilot, Cursor, and Aide. As a result, you'll find multiple versions of the program in this repository.
+Welcome. This repository provides a simplified version of my favorite classic card game, Blackjack. It's written in Python or Javascript, and has been developed with the assistance of three different AI coding tools: GitHub Copilot, Cursor, and Aide.
+As a result, you'll find multiple versions of the same program in this repository, including my original version written with help of Google. :)
 
 # Rules of Blackjack
 Blackjack is a card game where the objective is to have a hand value closest to 21 without going over. Here's a brief overview of the rules:
